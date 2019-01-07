@@ -1,0 +1,16 @@
+img {
+    width:300px;
+    display:none;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#t, #lm, #lo, #evb, #el, #bct {
+    display:none;
+}
+#ev {
+    width:700px;
+}
+body {
+    text-align:center;
+}
